@@ -1,2 +1,4 @@
 # Restfull-Api-E-commerce-
-To host this website on your local host first initialise all node modules and make database as describe in mysql file and then host.
+Hosting of this website on Heroku is remaining. 
+Use Port Assigned in server.js and run as `http://localhost:${PORT}` in your machine.
+Use Postman for testing routes. 
